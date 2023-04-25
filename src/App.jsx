@@ -59,7 +59,7 @@ function App() {
   }
 
   return (
-    <div className="app">
+    <div className="container">
       <div className="area-input">
         <h1>Calculadora de IMC</h1>
         <span>Vamos Calcular seu IMC ?</span>
